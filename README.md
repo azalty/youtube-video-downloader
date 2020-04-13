@@ -4,4 +4,4 @@ A package to download youtube videos (and audio) from your computer, without any
 ## Installation
 Just download the latest release package: https://github.com/rlevet/youtube-video-downloader/releases/latest
 
-Install the folder "install this if you have problems" (you will run the file inside in case it doesn't work) as well as the "32 bits" or "64 bits" version (if you don't know which one to choose, go with "32 bits" as a default choice)
+Install and extract the folder. Just run one of the two .exe files and it will automaticly detect if you are 32 or 64 bits. If you are having problems, you should consider running the file inside "install this if you have problems"
