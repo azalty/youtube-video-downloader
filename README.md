@@ -1,6 +1,10 @@
 # youtube-video-downloader
 A package to download youtube videos (and audio) from your computer, without any website
 
+- Download videos in .mp4
+- Download audio in .mp3
+- settings.ini file to add more features such as [download playlist] [add thumbnail/save thumbnail] [check updates]
+
 Still working. Last verification date: 2020-04-14
 
 ## Installation
