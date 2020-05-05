@@ -5,7 +5,7 @@ A package to download youtube videos (and audio) from your computer, without any
 - Download audio in .mp3
 - settings.ini file to add more features such as [download playlist] [add thumbnail/save thumbnail] [check updates]
 
-Still working. Last verification date: 2020-04-28
+Still working. Last verification date: 2020-05-05
 
 ## Installation
 Just download the latest release package: https://github.com/rlevet/youtube-video-downloader/releases/latest
