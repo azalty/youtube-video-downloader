@@ -1,5 +1,5 @@
 # youtube-video-downloader
-A pack to download youtube videos (and audio) from your computer, without any website
+A package to download youtube videos (and audio) from your computer, without any website
 
 - Download videos in .mp4
 - Download audio in .mp3
