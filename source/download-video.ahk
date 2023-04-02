@@ -132,6 +132,6 @@ if ErrorLevel
     ExitApp
 else
 {
-	Run "%A_ScriptDir%\youtube-dl\youtube-dl.exe" -f "bestvideo[ext=mp4]+bestaudio[ext=m4a]/best[ext=mp4]/best" -o "%A_ScriptDir%/downloads/`%(title)s.`%(ext)s" %videolink%%_aThumbnail%%_aQuality%%_aForceFrequency%%_Playlist%%_Thumbnail%%_Filenames%
+	Run "%A_ScriptDir%\youtube-dl\yt-dlp.exe" -f "bestvideo[ext=mp4]+bestaudio[ext=m4a]/best[ext=mp4]/best" -o "%A_ScriptDir%/downloads/`%(title)s.`%(ext)s" %videolink%%_aThumbnail%%_aQuality%%_aForceFrequency%%_Playlist%%_Thumbnail%%_Filenames%
 	ExitApp
 }

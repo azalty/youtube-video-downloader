@@ -132,6 +132,6 @@ if ErrorLevel
     ExitApp
 else
 {
-	Run "%A_ScriptDir%\youtube-dl\youtube-dl.exe" -x --audio-format mp3 -o "%A_ScriptDir%/downloads/`%(title)s.`%(ext)s" %videolink%%_aThumbnail%%_aQuality%%_aForceFrequency%%_Playlist%%_Thumbnail%%_Filenames%
+	Run "%A_ScriptDir%\youtube-dl\yt-dlp.exe" -x --audio-format mp3 -o "%A_ScriptDir%/downloads/`%(title)s.`%(ext)s" %videolink%%_aThumbnail%%_aQuality%%_aForceFrequency%%_Playlist%%_Thumbnail%%_Filenames%
 	ExitApp
 }
