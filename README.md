@@ -1,3 +1,7 @@
+You should check out Parabolic instead! Another yt-dlp front-end to download videos and audio easily: https://github.com/NickvisionApps/Parabolic
+
+It is well made, free and open-source, and works on Windows and Linux.
+
 # youtube-video-downloader
 A package to download youtube videos (and audio) from your computer, without any website
 
